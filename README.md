@@ -1,5 +1,5 @@
-# Call center project
-# Introduction to ML course final prroject
+# Call Center project
+# Introduction to ML course final project
 
 Project Summary:
 
