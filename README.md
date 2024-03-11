@@ -1,5 +1,4 @@
-# Call Center project
-# Introduction to ML course final project
+# Response Prediction for a Call Center
 
 Project Summary:
 
