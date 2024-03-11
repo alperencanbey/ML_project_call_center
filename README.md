@@ -1,7 +1,9 @@
 # Response Prediction for a Call Center
 
-Project Summary:
 
+work-in-progress
+
+Project Summary:
 
 Project Steps:
 - Separating data into training and test sets
